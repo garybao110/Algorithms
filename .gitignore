@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Python cache directory
+__pycache__/
+
+# Ignore the .env file (for sensitive information)
+.env
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore db files
+*.db
